@@ -35,6 +35,7 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="32" height="32"/>
   </a>
+  <br>
 
   <!-- Tools -->
   <a href="https://code.visualstudio.com">
