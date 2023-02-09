@@ -62,3 +62,11 @@
 
 <!-- Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Okaneeee&label=Views&color=9b59b6" alt="caronsamuel" /> </p>
+
+#
+
+<!-- Other stuff -->
+## ✨ Other informations
+- 📚 I'm working on a [scanlation project](https://twitter.com/ZinniaScans)
+- ⏳ I'm planning to develop my own game
+- 🤫 Some privates repos might be public in the future
