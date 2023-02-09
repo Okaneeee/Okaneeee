@@ -51,3 +51,14 @@
 
 <!-- Most used languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okaneeee&layout=compact" alt="okaneeee" />
+
+#
+
+<!-- Contact infos -->
+## 📫 How to reach me:
+- <u>Discord:</u> Okane 🎴#1273
+- <u>Twitter:</u> [@Okaneeeeeeeee_e](https://twitter.com/Okaneeeeeeeee_e)
+- <u>Github:</u> [Okaneeee](https://github.com/Okaneeee)
+
+<!-- Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Okaneeee&label=Views&color=9b59b6" alt="caronsamuel" /> </p>
