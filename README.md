@@ -4,7 +4,7 @@
 #
 
 <!-- Main infos -->
-- 🔭 I’m currently working on a **Discord bot**, a **[python library to play sound](https://github.com/Okaneeee/soundPlayer)** and a **[Blokus game](https://github.com/Antorakk/blokus-game/)**
+- 🔭 I’m currently working on a **Discord bot** and a **[Blokus game](https://github.com/Antorakk/blokus-game/)**
 - 🌱 I’m currently learning **C#** and **Unity**
 - 🙇‍♂️ I'm currently improving my **C++** and **Python** skills
 
@@ -63,6 +63,12 @@
 
 <!-- Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Okaneeee&label=Views&color=9b59b6" alt="caronsamuel" /> </p>
+
+#
+
+<!-- Finished projects -->
+## ➰ Finished projects:
+- A **[python library to play sound](https://github.com/Okaneeee/soundPlayer)**
 
 #
 
