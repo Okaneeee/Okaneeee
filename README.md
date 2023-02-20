@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anatole</h1>
 <h3 align="center">I'm a 18 years old French CS/IT student.</h3>
+<h2 align="center">I'm also a translator.</h2>
 
 #
 
