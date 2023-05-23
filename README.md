@@ -5,7 +5,7 @@
 #
 
 <!-- Main infos -->
-- 🔭 I’m currently working on a **Discord bot** and a **[Blokus game](https://github.com/Antorakk/blokus-game/)**
+- 🔭 I’m currently working on a **Discord bot** and a **[Blackjack made in python](https://github.com/Okaneeee/python-blackjack)**
 - 🌱 I’m currently learning **C#** and **Unity**
 - 🙇‍♂️ I'm currently improving my **C++** and **Python** skills
 
@@ -75,6 +75,6 @@
 
 <!-- Other stuff -->
 ## ✨ Other informations
-- 📚 I'm working on a [scanlation project](https://twitter.com/ZinniaScans)
+- 📚 I'm [translating mangas](https://twitter.com/ZinniaScans)
 - ⏳ I'm planning to develop my own game
 - 🤫 Some privates repos might be public in the future
