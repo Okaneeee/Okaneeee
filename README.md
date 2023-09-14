@@ -5,9 +5,9 @@
 #
 
 <!-- Main infos -->
-- 🔭 I’m currently working on a **Discord bot** and a **[Blackjack made in python](https://github.com/Okaneeee/python-blackjack)**
-- 🌱 I’m currently learning **C#** and **Unity**
-- 🙇‍♂️ I'm currently improving my **C++** and **Python** skills
+- 🔭 I’m currently working on a **['Mass' File Renamer](https://github.com/Okaneeee/file_renamer)** and a **[Blackjack made in python](https://github.com/Okaneeee/python-blackjack) [ON HOLD]**
+- 🌱 I’m currently learning **C#**, **Unity** and **Unreal**
+- 🙇‍♂️ I'm currently improving my **C++** and **C#** skills
 
 #
 
@@ -58,7 +58,7 @@
 
 <!-- Contact infos -->
 ## 📫 How to reach me:
-- <u>Discord:</u> Okane 🎴#1273
+- <u>Discord:</u> okane.exe
 - <u>Twitter:</u> [@Okaneeeeeeeee_e](https://twitter.com/Okaneeeeeeeee_e)
 - <u>Github:</u> [Okaneeee](https://github.com/Okaneeee)
 
@@ -76,5 +76,4 @@
 <!-- Other stuff -->
 ## ✨ Other informations
 - 📚 I'm [translating mangas](https://twitter.com/ZinniaScans)
-- ⏳ I'm planning to develop my own game
 - 🤫 Some privates repos might be public in the future
