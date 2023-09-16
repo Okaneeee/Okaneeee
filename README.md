@@ -5,7 +5,7 @@
 #
 
 <!-- Main infos -->
-- 🔭 I’m currently working on a **['Mass' File Renamer](https://github.com/Okaneeee/file_renamer)** and a **[Blackjack made in python](https://github.com/Okaneeee/python-blackjack) [ON HOLD]**
+- 🔭 I’m currently working on a **['Mass' File Renamer](https://github.com/Okaneeee/files_renamer)** and a **[Blackjack made in python](https://github.com/Okaneeee/python-blackjack) [ON HOLD]**
 - 🌱 I’m currently learning **C#**, **Unity** and **Unreal**
 - 🙇‍♂️ I'm currently improving my **C++** and **C#** skills
 
