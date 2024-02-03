@@ -71,7 +71,7 @@
 - A **[python library to play sound](https://github.com/Okaneeee/soundPlayer)**
 
 ## ➿ Works in progress:
-- A **[discord chatbot](https://github.com/Okaneeee/discord-chatbot)** using neural networks
+- A **[Discord chatbot](https://github.com/Okaneeee/discord-chatbot)** using neural networks
 - A **[files renamer](https://github.com/Okaneeee/files-renamer)** in python (on hold)
 
 <!-- Other stuff -->
