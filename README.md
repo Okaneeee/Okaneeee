@@ -58,7 +58,7 @@
 
 <!-- Contact infos -->
 ## 📫 How to reach me:
-- <u>Discord:</u> okane.exe
+- <u>Discord:</u> [okane.exe](https://discord.com/users/430416407554031616)
 - <u>Twitter:</u> [@Okaneeeeeeeee_e](https://twitter.com/Okaneeeeeeeee_e)
 - <u>Github:</u> [Okaneeee](https://github.com/Okaneeee)
 
@@ -76,4 +76,4 @@
 
 <!-- Other stuff -->
 ## ✨ Other informations
-- 📚 I'm [translating mangas](https://twitter.com/ZinniaScans)
+- 📚 I'm [translating manga](https://twitter.com/ZinniaScans)
