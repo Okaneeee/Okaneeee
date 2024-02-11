@@ -75,5 +75,5 @@
 - A **[files renamer](https://github.com/Okaneeee/files-renamer)** in python (on hold)
 
 <!-- Other stuff -->
-## ✨ Other informations
+## ✨ Other information
 - 📚 I'm [translating manga](https://twitter.com/ZinniaScans)
