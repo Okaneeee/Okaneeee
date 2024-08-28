@@ -47,8 +47,6 @@
 
 ![Unity Version](https://img.shields.io/badge/Unity-2022.3.4f1-yellow)
 ![Unreal Version](https://img.shields.io/badge/Unreal-5.2.1-purple) </br>
-![Godot Version](https://img.shields.io/badge/Godot-4.2.1-blue)
-![GBStudio Version](https://img.shields.io/badge/GB_Studio-3.2.0-pink) </br>
 
 <!-- Contact infos -->
 ## 📫 How to reach me:
