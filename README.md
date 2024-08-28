@@ -4,7 +4,7 @@
 
 
 <!-- Main infos -->
-- 🔭 I’m currently not working on anything, but I'm learning **neural networks**.
+- 🔭 I’m currently working on [my website](https://github.com/Okaneeee/okaneeee.github.io), but I'm learning **neural networks**.
 - 🌱 I’m currently learning **C++**, **C#**, **Unity** and **Unreal** at UQAC.
 - 🙇‍♂️ I'm currently improving my **C++** and **C#** skills.
 
@@ -63,7 +63,7 @@
 - <u>Github:</u> [Okaneeee](https://github.com/Okaneeee)
 
 <!-- Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Okaneeee&label=Views&color=9b59b6" alt="caronsamuel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Okaneeee&label=Views&color=9b59b6" alt="anatole" /> </p>
 
 
 <!-- Finished projects -->
