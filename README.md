@@ -30,12 +30,6 @@
   <a href="https://www.unrealengine.com">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/u/unreal-1.svg" alt="unreal" width="32" height="32"/>
   </a>
-  <a href="https://godotengine.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="dogot" width="32" height="32"/>
-  </a>
-  <a href="https://www.gbstudio.dev">
-    <img src="https://raw.githubusercontent.com/chrismaltby/gb-studio/develop/src/assets/app/icon/app_icon.ico" alt="dogot" width="32" height="32"/>
-  </a>
   <br>
 
   <!-- Tools -->
