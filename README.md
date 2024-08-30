@@ -4,7 +4,7 @@
 
 
 <!-- Main infos -->
-- 🔭 I’m currently working on [my website](https://github.com/Okaneeee/okaneeee.github.io), but I'm learning **neural networks**.
+- 🔭 I’m currently working on [my website](https://github.com/Okaneeee/okaneeee.github.io).
 - 🌱 I’m currently learning **C++**, **C#**, **Unity** and **Unreal** at UQAC.
 - 🙇‍♂️ I'm currently improving my **C++** and **C#** skills.
 
