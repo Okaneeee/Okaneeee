@@ -4,8 +4,8 @@
 
 
 <!-- Main infos -->
-- 🔭 I’m currently working on [my website](https://github.com/Okaneeee/okaneeee.github.io) and a [discord bot](https://github.com/Okaneeee/SWCodes).
-- 🌱 I’m currently learning **C++**, **C#**, **Unity** and **Unreal** at UQAC.
+- 🔭 I’m currently working on [my website](https://github.com/Okaneeee/okaneeee.github.io) and [3D Graphics with SDL2 and C++](https://github.com/Okaneeee/SDL2_3D_Graphics).
+- 🌱 I’m currently learning **C++**, **SDL2**, **OpenGL** and **Vulkan**.
 - 🙇‍♂️ I'm currently improving my **C++** and **C#** skills.
 
 
@@ -61,6 +61,7 @@
 <!-- Finished projects -->
 ## ➰ Finished projects:
 - A **[python library to play sound](https://github.com/Okaneeee/soundPlayer)**
+- A **[Discord bot for codes in Summoners War](https://github.com/Okaneeee/SWCodes)**
 
 ## ➿ Works in progress:
 - A **[Discord chatbot](https://github.com/Okaneeee/discord-chatbot)** using neural networks
