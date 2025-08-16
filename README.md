@@ -4,7 +4,7 @@
 
 
 <!-- Main infos -->
-- 🔭 I’m currently working on [my website](https://github.com/Okaneeee/okaneeee.github.io) and [3D Graphics with SDL2 and C++](https://github.com/Okaneeee/SDL2_3D_Graphics).
+- 🔭 I’m currently working on [my website](https://github.com/Okaneeee/okaneeee.github.io).
 - 🌱 I’m currently learning **C++**, **SDL2**, and **OpenGL**.
 - 🙇‍♂️ I'm currently improving my **C++** and **C#** skills.
 
