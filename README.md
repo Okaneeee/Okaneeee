@@ -44,8 +44,8 @@
 <!-- Most used languages -->
 <img src="./profile/top-langs.svg" alt="okaneeee" />
 
-![Unity Version](https://img.shields.io/badge/Unity-2022.3.4f1-yellow)
-![Unreal Version](https://img.shields.io/badge/Unreal-5.2.1-purple) </br>
+<!-- ![Unity Version](https://img.shields.io/badge/Unity-2022.3.4f1-yellow)
+![Unreal Version](https://img.shields.io/badge/Unreal-5.2.1-purple) </br> -->
 
 <!-- Contact infos -->
 ## 📫 How to reach me:
