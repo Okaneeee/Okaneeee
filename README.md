@@ -68,4 +68,4 @@
 
 <!-- Other stuff -->
 ## ✨ Other information
-- 📚 I'm [translating manga](https://twitter.com/ZinniaScans)
+- 📚 I'm [translating manga](https://twitter.com/HibanaTL)
